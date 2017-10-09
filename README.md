@@ -8,3 +8,7 @@ SEED를 사용하였으며 소스에도 포함되어있습니다.
 누구나 사용 가능하고 단지 원 소스만 명시해주시면 됩니다.
 
 2017.01.10 Ver 0.5 - Unfinished
+
+Project_Glutton.zip
+
+2017.10.09 ver 1.0 - finished
